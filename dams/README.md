@@ -1,4 +1,4 @@
-Data as of 2016
+Source: U.S. Army Corp of Engineers, 2016
 
 The National Inventory of Dams (NID) is a database of all dams in the United States that meet one of the following criteria: 
 * High hazard classification - loss of one human life is likely if the dam fails, 
